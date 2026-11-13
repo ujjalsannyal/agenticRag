@@ -9,3 +9,6 @@ wikipedia
 arxiv
 langgraph-cli[inmem]
 faiss-cpu
+beautifulsoup4
+langchain_tavily
+langchain-experimental
